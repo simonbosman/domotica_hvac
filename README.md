@@ -2,7 +2,7 @@
 
 I had a very [old thermostat](https://github.com/simonbosman/domotica_hvac/blob/master/old_hvac.jpg)
 in my apartment, so when I came home from a hard day's work it was always cold.
-So had to fix that.
+Not a very welcoming scene, so to work.
 
 I bought a jeenode master en a jeenode slave, a nice box, a relay and a temperature sensor
 
