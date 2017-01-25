@@ -9,12 +9,15 @@ I bought a jeenode master en a jeenode slave, a nice box, a relay and a temperat
 http://www.digitalsmarties.net/products/jeenode
 http://www.digitalsmarties.net/products/jeelink-classic
 
-I already had an Asus router with a MIPS processor and OpenWrt, hence made the code in C for the Asus router and the code for the two jeenode's in Arduino.
+I already had an Asus router with a MIPS processor and OpenWrt, hence made the [code in C](https://github.com/simonbosman/domotica_hvac/blob/master/domo.c) for the Asus router and the code for the two jeenode's in Arduino.
+[masternode](https://github.com/simonbosman/domotica_hvac/blob/master/JeeMasterNode.ino)
+[roomnode](https://github.com/simonbosman/domotica_hvac/blob/master/JeeRoomNode.ino)
 
 This way I could remotely login to my router and set the temperature.
 Oh, what I nice feeling getting home when it's all warm and cosy.
 
 See the pics
- ![Jeenode usbstick plugged in the Asus router](https://github.com/simonbosman/domotica_hvac/blob/master/jeenode.jpg) 
-![router](https://github.com/simonbosman/domotica_hvac/blob/master/jeenode.jpg)
-
+![Jeenode usbstick plugged in the Asus router](https://github.com/simonbosman/domotica_hvac/blob/master/jeenode.jpg) 
+![router](https://github.com/simonbosman/domotica_hvac/blob/master/mips_openwrt.jpg)
+![new hvac](https://github.com/simonbosman/domotica_hvac/blob/master/new_hvac.jpg)
+![new hvac closeup](https://github.com/simonbosman/domotica_hvac/blob/master/new_hvac2.jpg)
