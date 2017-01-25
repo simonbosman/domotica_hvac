@@ -1,8 +1,8 @@
 # domotica_hvac
 
 I had a very [old thermostat](https://github.com/simonbosman/domotica_hvac/blob/master/old_hvac.jpg)
-in my apartment, so when I came home from a hard day's work it was always cold.
-Not a very welcoming scene, so to work.
+in my apartment, when I came home from a hard day's work I was welcomed with an artic blizzard.
+Not a very welcoming scene, so I got some work to do.
 
 I bought a jeenode master en a jeenode slave, a nice box, a relay and a temperature sensor
 
